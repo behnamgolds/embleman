@@ -10,12 +10,12 @@ some other emblems and easily increase or decrease the number .
 This was intended to be used as thunar custom action, but it
 could also be used on its own like this :
 
-```
-$ python embleman.py < --increse | --decrease | --clock | --check > <file-or-directory-path>
+```bash
+python embleman.py < --increse | --decrease | --clock | --check > <file-or-directory-path>
 ```
 or
-```
-$ ./embleman.py --help
+```bash
+./embleman.py --help
 ```
 But you have to refresh(F5) your thunar window manually.
 If used as thunar custom action it will automatically send
@@ -23,8 +23,8 @@ the F5 key to the active window(aka thunar)
 
 You could also use it in other scripts and just run something
 like the following to send F5 to the active window :
-```
-$ xdotool key F5
+```bash
+xdotool key F5
 ```
 
 I used some svg emblems and put it into my icons directory here :
@@ -41,8 +41,8 @@ in your "your-theme-name" directory if you want these emblems to
 be visible in other themes .
 
 then run this to make thunar read the new emblems :
-```
-$ thunar -q
+```bash
+thunar -q
 ```
 
 My embleman script is located here :
