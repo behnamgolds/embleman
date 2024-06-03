@@ -1,6 +1,7 @@
 # embleman
 A set of emblem actions built on top of a previous project [embleman](https://github.com/behnamgolds/xfce-thunar-embleman)
 
+![1](https://github.com/behnamgolds/embleman/assets/29102609/12e499ba-794d-47f6-b3df-958e8b431973)
 
 I just wanted to add some actions to my thunar custom actions ,
 so that I could mark some files/directories with a number or 
@@ -52,7 +53,9 @@ Adding the action to thunar is straightforward from :
 ```
 Thunar > Edit > Configure Custom Actions
 ```
-![1](https://github.com/behnamgolds/xfce-thunar-embleman/assets/29102609/d28dbfb5-1e21-4536-b536-24476e55b2d3)
+
+![2](https://github.com/behnamgolds/embleman/assets/29102609/cfaea98a-4d41-4246-a504-b6682d54d6ce)
+
 
 The changes will be saved here :
 ```
