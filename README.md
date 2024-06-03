@@ -1,5 +1,5 @@
 # embleman
-A set of emblem actions built on top of a previous project [embleman](https://github.com/behnamgolds/xfce-thunar-embleman)
+A set of emblem actions built on top of a previous project [numblems](https://github.com/behnamgolds/xfce-thunar-numblems)
 
 ![1](https://github.com/behnamgolds/embleman/assets/29102609/12e499ba-794d-47f6-b3df-958e8b431973)
 
