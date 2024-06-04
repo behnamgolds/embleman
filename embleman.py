@@ -58,8 +58,8 @@ class FsItem:
             return -1
         return n - 1
 
-    def __is_increase_action(self, a: str) -> bool:
-        return a == "inc"
+    def __is_increase_action(self) -> bool:
+        return self.__action == "inc"
 
     def __set_one(self):
         one_emblem = "emblem-num-" + str(1) + "-symbolic"
@@ -94,7 +94,7 @@ class FsItem:
                     return
 
         if not self.__num_emblem_found:
-            if self.__is_increase_action(self.__action):
+            if self.__is_increase_action():
                 self.__set_one()
                 return
 
