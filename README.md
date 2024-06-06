@@ -1,8 +1,8 @@
 # embleman
 
-## A set of emblem actions built on top of a previous project [numblems](https://github.com/behnamgolds/xfce-thunar-numblems)
+### A set of emblem actions built on top of a previous project [numblems](https://github.com/behnamgolds/xfce-thunar-numblems)
  
-## There is also a [Go implementation](https://github.com/behnamgolds/embleman-go) if you are interested.
+### There is also a [Go implementation](https://github.com/behnamgolds/embleman-go) if you are interested.
  
 ![1](https://github.com/behnamgolds/embleman/assets/29102609/12e499ba-794d-47f6-b3df-958e8b431973)
 
